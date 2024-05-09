@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IvanRiel/IvanRiel/blob/main/Picsart_24-05-09_23-50-42-596.jpg" alt="Picsart_24-05-09_23-27-43-419">
+  <img src="https://github.com/Infosec-Ivan/Infosec-Ivan/blob/main/Picsart_24-05-09_23-50-42-596.jpg" alt="Picsart_24-05-09_23-27-43-419">
 </p>
 <img alt="Static Badge" src="https://img.shields.io/badge/I%20V%20A%20N%20R%20I%20E%20L-darkgreen?style=for-the-badge&logo=Nike" height="50" width="350">
 </p>
