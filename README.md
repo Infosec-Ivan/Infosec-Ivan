@@ -18,7 +18,6 @@ Welcome to my GitHub! my passion is cybersecurity, ethical hacking, and continuo
 
 ### Languages i know
 ![Static Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20bash)
-![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![static Badge](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
 ### OS i use
 ![Static Badge](https://img.shields.io/badge/Athena%20OS-black?style=for-the-badge&logo=Arch%20linux)
