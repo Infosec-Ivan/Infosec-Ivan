@@ -13,8 +13,8 @@ Welcome to my GitHub! my passion is cybersecurity, ethical hacking, and continuo
 
 - 🔭 **Currently Working On:** Enhancing pentesting and script developing skills
 - 🌱 **Learning:** Python, Bash,
-- 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec) , [Telegram - Byte Bandits](https://t.me/blackouthacks)
-- ⚡ **serious Fact:** Trying to be better than my past me , goal is to live a peacefull life with my close one
+- 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec)
+- ⚡ **serious Fact:** Trying to be better than my past version
 
 ### Languages i know
 ![Static Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU%20bash)
@@ -33,7 +33,7 @@ Welcome to my GitHub! my passion is cybersecurity, ethical hacking, and continuo
 
 **Hacking test:** [Hacking Test](https://www.hackertest.net/)
 
-## Channel to learn hacking tools and vurnabilities
+## Channel to le arn hacking tools and vurnabilities
 
 
 **Hak5:** [Hak5](https://youtube.com/@hak5?si=v8w96j6RLWKQR-0M)
